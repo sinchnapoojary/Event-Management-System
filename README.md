@@ -18,6 +18,6 @@ Click on "Admin" to navigate to the admin login screen.
 
 
 Authors:
-Sinchana Poojary
-Shreyas C
+Sinchana Poojary,
+Shreyas C,
 Siddartha S Emmi
