@@ -17,7 +17,7 @@ Click on "Customer" to navigate to the customer login screen.
 Click on "Admin" to navigate to the admin login screen.
 
 
-Authors:
+Project Associates:
 Sinchana Poojary,
 Shreyas C,
 Siddartha S Emmi
